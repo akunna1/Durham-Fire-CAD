@@ -1,0 +1,31 @@
+Incident #,Chief Complaint,Determinant Code,Priority Level,Response Type,Who to Send,longitude,latitude
+1,Person on Fire,69-E-1,Echo (E),Rapid ALS,"Fire, EMS",-78.783890,35.975065
+2,Abdominal Pain,1-C-3,Charlie (C),"ALS, Cold",EMS,-78.945438,36.041691
+3,Domestic Disturbance,4-B-1,Bravo (B),"BLS, Hot",Police,-78.937154,35.923391
+4,Accidental Poisoning,23-O-1,Omega (O),Consult Only,EMS,-78.791806,35.937735
+5,Vehicle Fire,71-D-1,Delta (D),"ALS, Hot","Fire, Police",-78.802504,35.979858
+6,Cardiac Arrest,9-E-1,Echo (E),Rapid ALS,"Fire, EMS",-78.938038,35.927005
+7,Traffic Accident,29-D-1,Delta (D),"ALS, Hot","Police, EMS",-78.950549,35.927293
+8,HAZMAT Incident,61-D-1,Delta (D),"ALS, Hot","Fire, Police, EMS",-78.889859,36.081545
+9,Overdose,23-D-1,Delta (D),"ALS, Hot",EMS,-78.932405,35.990261
+10,Breathing Problems,6-D-1,Delta (D),"ALS, Hot",EMS,-78.835683,35.977484
+11,Domestic Disturbance,4-B-1,Bravo (B),"BLS, Hot",Police,-78.811638,35.932319
+12,Fall Injury,17-C-1,Charlie (C),"ALS, Cold",EMS,-78.925222,35.991629
+13,Missing Person,2-A-1,Alpha (A),"BLS, Cold",Police,-78.903501,35.967466
+14,Structure Fire,69-D-1,Delta (D),"ALS, Hot","Fire, EMS",-78.756612,35.925997
+15,Water Rescue,72-D-1,Delta (D),"ALS, Hot","Fire, EMS",-78.856230,35.965505
+16,Watercraft in Distress,73-D-1,Delta (D),"ALS, Hot","Fire, EMS",-78.892282,36.046028
+17,Citizen Assist,53-A-1,Alpha (A),"BLS, Cold",EMS,-78.974712,36.074103
+18,Person on Fire,69-E-1,Echo (E),Rapid ALS,"Fire, EMS",-78.904649,36.071504
+19,Domestic Disturbance,4-B-1,Bravo (B),"BLS, Hot",Police,-78.821909,36.037208
+20,Watercraft in Distress,73-D-1,Delta (D),"ALS, Hot","Fire, EMS",-78.888046,35.972191
+21,Vehicle Fire,71-D-1,Delta (D),"ALS, Hot","Fire, Police",-78.793569,35.963662
+22,Breathing Problems,6-D-1,Delta (D),"ALS, Hot",EMS,-78.900438,35.985746
+23,Gas Leak/Odor,60-D-1,Delta (D),"ALS, Hot","Fire, EMS",-78.873813,36.028724
+24,Smoke Investigation,68-B-1,Bravo (B),"BLS, Hot",Fire,-78.981137,35.972066
+25,Overdose,23-D-1,Delta (D),"ALS, Hot",EMS,-78.938162,35.973152
+26,Cardiac Arrest,9-E-1,Echo (E),Rapid ALS,"Fire, EMS",-78.927615,35.918182
+27,Missing Person,2-A-1,Alpha (A),"BLS, Cold",Police,-78.822796,36.026693
+28,Domestic Disturbance,4-B-1,Bravo (B),"BLS, Hot",Police,-78.904482,35.879579
+29,Structure Fire,69-D-1,Delta (D),"ALS, Hot","Fire, EMS",-78.822176,36.027979
+30,Missing Person,2-A-1,Alpha (A),"BLS, Cold",Police,-78.932444,35.948061
