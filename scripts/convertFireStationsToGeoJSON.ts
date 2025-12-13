@@ -4,7 +4,7 @@ import fs from "fs";
 import csv from "csv-parser";
 
 const INPUT = "./data/Fire_Stations_Geocoded.csv";
-const OUTPUT = "./data/Fire_Stations.geojson";
+const OUTPUT = "./public/geojson/Fire_Stations.geojson";
 
 // Array to hold GeoJSON features
 const features: any[] = [];
