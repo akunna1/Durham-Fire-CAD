@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+/* Set universal background and text color */
+body {
+  background-color: black;
+  color: white;
+}
+

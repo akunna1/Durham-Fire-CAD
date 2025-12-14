@@ -4,7 +4,7 @@ Project Notes:
 - Fire should not be called for Omega and Alpha incidents
 
 VS Terminal Codes:
-- npm install proj4 csv-parser fast-csv (to make script 1 work)
-- npm install -D ts-node @types/node (to make script 1 work)
-- npx ts-node scripts/convertEmergencyIncidents.ts (to run script 1)
+- npm install proj4 csv-parser fast-csv (to make scripts work)
+- npm install -D ts-node @types/node (to make scripts work)
+- each script has its own line of code to run too
 

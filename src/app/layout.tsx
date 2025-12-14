@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import "leaflet/dist/leaflet.css";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -14,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Durham Fire Dispatch App",
-  description: "Durham Dispatch App processes emergency data, filters Fire and EMS incidents, and assigns nearby stations to respond.",
+  description: "Durham Fire Dispatch App processes emergency data, filters Fire incidents, and assigns nearby stations to respond.",
   icons: {
     icon: "/favicon.ico",
   },
