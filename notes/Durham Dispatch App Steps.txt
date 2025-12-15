@@ -1,5 +1,7 @@
 Durham Dispatch App Steps:
 1. Create Emergency Incident CSV ✅
-2. Project x,y to log, lat ✅
+2. Project x,y of the Emergency Incidents data (I borrowed the x,y from the Active Addresses of Durham data) to log, lat ✅
 3. Update Stations csv by removing Future Station 19 ✅
-4. Covert both csvs to geoJSON and put them in the public directory ✅
+4. Covert both csvs (Fire Stations + Emergency Incidents) to geoJSON and put them in the public directory ✅
+5. Filtered out non-fire emergency incidents from the Emergency Incidents geoJSON and created new geoJSON✅
+6. 
