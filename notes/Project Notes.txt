@@ -11,3 +11,4 @@ VS Terminal Codes:
 Improving and Making the Project more Automatic?
 - Rather than running the 4 scripts with npx, I want it to be done automatically before the project starts...
 - Grouping stations by battalions?
+- What each station should send (appear as pop ups on the yellow stations)?

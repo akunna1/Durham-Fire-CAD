@@ -26,7 +26,7 @@ Durham-Fire-CAD/
 ├── public/ geojson   # GeoJSON files for Fire Incidents, Emergency Incidents, and Fire Stations
 ├── src/              # Next.js app
 ├── data/             # CSVs for emergency incidents and Durhmanfire stations
-├── scripts/          # Utility scripts (e.g., coordinate conversion)
+├── scripts/          # Utility scripts (e.g., coordinate conversion, transformation & extraction)
 ├── package.json
 └── README.md
 ```
