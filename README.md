@@ -22,7 +22,7 @@
 
 ```
 Durham-Fire-CAD/
-├── notes             # notes about project progress, definitions, and data
+├── notes             # Notes about project progress, definitions, and data, etc
 ├── public/ geojson   # GeoJSON files for Fire Incidents, Emergency Incidents, and Fire Stations
 ├── src/              # Next.js app
 ├── data/             # CSVs for emergency incidents and Durhmanfire stations
