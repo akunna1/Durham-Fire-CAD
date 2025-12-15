@@ -1,3 +1,4 @@
+// Script 2
 // Run with npx ts-node scripts/convertEmergencyIncidentsToGeoJSON.ts in VS code terminal
 
 import fs from "fs";

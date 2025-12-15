@@ -1,3 +1,4 @@
+// Script 1
 // Run with npx ts-node scripts/convertEmergencyIncidents.ts in VS code terminal
 
 import fs from "fs";

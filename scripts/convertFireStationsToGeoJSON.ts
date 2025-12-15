@@ -1,3 +1,4 @@
+// Script 3
 // Run with npx ts-node scripts/convertFireStationsToGeoJSON.ts in VS code terminal
 
 import fs from "fs";
