@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Durham Fire Dispatch App",
-  description: "Durham Fire Dispatch App processes emergency data, filters Fire incidents, and assigns nearby stations to respond.",
+  title: "Durham Fire CAD",
+  description: "Durham Fire CAD App processes emergency data, filters Fire incidents, and assigns nearby stations to respond.",
   icons: {
     icon: "/favicon.ico",
   },
