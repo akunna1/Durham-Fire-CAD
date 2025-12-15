@@ -21,9 +21,11 @@
 ## Folder Structure 📁
 
 ```
-Durham-Dispatch-App/
+Durham-Fire-CAD/
+├── notes             # notes about project progress, definitions, and data
+├── public/ geojson   # GeoJSON files for Fire Incidents, Emergency Incidents, and Fire Stations
 ├── src/              # Next.js app
-├── data/             # CSVs and later GeoJSON files
+├── data/             # CSVs for emergency incidents and Durhmanfire stations
 ├── scripts/          # Utility scripts (e.g., coordinate conversion)
 ├── package.json
 └── README.md
