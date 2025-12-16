@@ -23,15 +23,9 @@ const center: [number, number] = [35.994, -78.898];
 
 export default function CADMap({ isRunning }: { isRunning: boolean }) {
   const [stations, setStations] = useState<FeatureCollection<Point, StationProperties> | null>(null);
-
   const [incidents, setIncidents] = useState<FeatureCollection<Point, IncidentProperties> | null>(null);
-
-  // Which fire incident is currently active
-  const [activeIndex, setActiveIndex] = useState<number | null>(null);
-
-  // Which station is closest to the active incident
-  const [activeStationIndex, setActiveStationIndex] = useState<number | null>(null);
-
+  const [activeIndex, setActiveIndex] = useState<number | null>(null); // Which fire incident is currently active
+  const [activeStationIndex, setActiveStationIndex] = useState<number | null>(null); // Which station is closest to the active incident
   const [mounted, setMounted] = useState(false);
 
   /**
